@@ -15,9 +15,10 @@ BEGIN
   BEGIN
     BLOCK "040904E4"
     BEGIN
-      VALUE "FileDescription",  "NewProject\0"
+      VALUE "CompanyName",  "MarcoDevCwb\0"
+      VALUE "FileDescription",  "SubLoop\0"
       VALUE "FileVersion",  "1.0.0\0"
-      VALUE "ProductName",  "NewProject\0"
+      VALUE "ProductName",  "SubLoop\0"
       VALUE "ProductVersion",  "1.0.0\0"
     END
   END
